@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html language ="en">
+<head>
+<meta charset ="UTF-8">
+<title>HTML FINAL</title>
+</head>
+<body>
+</header>
+<h1>Arkapravo Majumder</h1>
+<nav>
+<a href="http://www.gmail.com">One</a>
+<a href="http://www.facebook.com">Two</a>
+<a href="http://www.github.com">Three</a>
+</nav>
+</header>
+<section>
+<h2>Favourite Food</h2>
+<ul>
+<li>
+</ul>
+</body>
+</html>
